@@ -5,8 +5,8 @@ import tqdm
 import time
 
 
-source_path = "/nvme/dxw/SCSM/pretrain_dataset/GTT23.hdf5"
-target_path = "/nvme/dxw/SCSM/pretrain_dataset/GTT23_train.hdf5"
+source_path = "/mnt/d/Datasets/GTT23/GTT23.hdf5"
+target_path = "./GTT23_train.hdf5"
 
 # 超参数
 batch_size = 1024

@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+*.npz
+*.npy
+*.hdf5
+*.pyc
